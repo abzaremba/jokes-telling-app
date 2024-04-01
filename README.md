@@ -23,8 +23,6 @@ This is a Jokes Telling App built with NextJS, which allows to generate sutomise
     * 🤡 knock-knock
 
 
-[Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## How to run
 
 ### Assumptions:
