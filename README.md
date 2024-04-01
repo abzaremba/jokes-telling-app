@@ -41,3 +41,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Comments
 
 I used the `mistral-7b-v0.1.Q4_K_M.gguf` model with cpu - and it is very slow! but at least I'm able to run it locally!
+
+Example with the options Topic - human nature, Tone - Dark, Type - knock-knock. 
+
+![Picture](knock.jpg)
